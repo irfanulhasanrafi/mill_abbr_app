@@ -1,11 +1,8 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'package:permission_handler/permission_handler.dart';
-import 'package:path_provider/path_provider.dart';
 import 'package:pdf/widgets.dart' as pw;
 import '../models/abbreviation.dart';
-import '../utils/pdf_helper.dart';
 
 class FavoritesScreen extends StatefulWidget {
   final List<Abbreviation> allAbbrs;
@@ -19,7 +16,6 @@ class FavoritesScreen extends StatefulWidget {
 
 class _FavoritesScreenState extends State<FavoritesScreen> {
   List<Abbreviation> filteredFavorites = [];
-  String _searchQuery = '';
 
   @override
   void initState() {
@@ -29,7 +25,6 @@ class _FavoritesScreenState extends State<FavoritesScreen> {
 
   void _filter(String query) {
     setState(() {
-      _searchQuery = query;
       filteredFavorites = widget.allAbbrs
           .where((abbr) =>
               widget.favoriteAbbrs.contains(abbr.abbr) &&

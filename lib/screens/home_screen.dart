@@ -58,37 +58,37 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   void _filter(String query) {
-  _searchQuery = query.toLowerCase();
+    _searchQuery = query.toLowerCase();
 
-  List<Abbreviation> exactAbbrMatches = [];
-  List<Abbreviation> partialAbbrMatches = [];
-  List<Abbreviation> exactFullFormMatches = [];
-  List<Abbreviation> partialFullFormMatches = [];
+    List<Abbreviation> exactAbbrMatches = [];
+    List<Abbreviation> partialAbbrMatches = [];
+    List<Abbreviation> exactFullFormMatches = [];
+    List<Abbreviation> partialFullFormMatches = [];
 
-  for (var abbr in allAbbrs) {
-    final abbrLower = abbr.abbr.toLowerCase();
-    final fullFormLower = abbr.fullForm.toLowerCase();
+    for (var abbr in allAbbrs) {
+      final abbrLower = abbr.abbr.toLowerCase();
+      final fullFormLower = abbr.fullForm.toLowerCase();
 
-    if (abbrLower == _searchQuery) {
-      exactAbbrMatches.add(abbr);
-    } else if (abbrLower.contains(_searchQuery)) {
-      partialAbbrMatches.add(abbr);
-    } else if (fullFormLower == _searchQuery) {
-      exactFullFormMatches.add(abbr);
-    } else if (fullFormLower.contains(_searchQuery)) {
-      partialFullFormMatches.add(abbr);
+      if (abbrLower == _searchQuery) {
+        exactAbbrMatches.add(abbr);
+      } else if (abbrLower.contains(_searchQuery)) {
+        partialAbbrMatches.add(abbr);
+      } else if (fullFormLower == _searchQuery) {
+        exactFullFormMatches.add(abbr);
+      } else if (fullFormLower.contains(_searchQuery)) {
+        partialFullFormMatches.add(abbr);
+      }
     }
-  }
 
-  setState(() {
-    filteredAbbrs = [
-      ...exactAbbrMatches,
-      ...partialAbbrMatches,
-      ...exactFullFormMatches,
-      ...partialFullFormMatches,
-    ];
-  });
-}
+    setState(() {
+      filteredAbbrs = [
+        ...exactAbbrMatches,
+        ...partialAbbrMatches,
+        ...exactFullFormMatches,
+        ...partialFullFormMatches,
+      ];
+    });
+  }
 
   Widget highlightText(String text, String query, BuildContext context) {
     if (query.isEmpty) return Text(text);
@@ -104,7 +104,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return RichText(
       text: TextSpan(
         text: text.substring(0, start),
-        style: TextStyle(color: Theme.of(context).textTheme.bodyText1?.color),
+        style: TextStyle(color: Theme.of(context).textTheme.bodyLarge?.color),
         children: [
           TextSpan(
             text: text.substring(start, end),
@@ -117,7 +117,7 @@ class _HomeScreenState extends State<HomeScreen> {
           TextSpan(
             text: text.substring(end),
             style:
-                TextStyle(color: Theme.of(context).textTheme.bodyText1?.color),
+                TextStyle(color: Theme.of(context).textTheme.bodyLarge?.color),
           ),
         ],
       ),

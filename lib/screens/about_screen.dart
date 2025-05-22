@@ -27,7 +27,7 @@ class AboutScreen extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text('Mill Abbr', style: Theme.of(context).textTheme.headline6),
+            Text('Mill Abbr', style: Theme.of(context).textTheme.titleLarge),
             SizedBox(height: 8),
             Text('Version 1.0.0'),
             SizedBox(height: 16),

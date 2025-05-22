@@ -1,5 +1,9 @@
 [
   {
+    "Abbreviate": "Abbreviate",
+    "abbr": "abbr"
+  },
+  {
     "Abbreviate": "Above Mean Sea Level",
     "abbr": "AMSL"
   },
@@ -276,7 +280,7 @@
     "abbr": "AMM"
   },
   {
-    "Abbreviate": "Aircrafton Ground",
+    "Abbreviate": "Aircraft on Ground",
     "abbr": "AOG"
   },
   {
@@ -336,7 +340,7 @@
     "abbr": "amph"
   },
   {
-    "Abbreviate": "Amphibious BeachUnit",
+    "Abbreviate": "Amphibious Beach Unit",
     "abbr": "ABU"
   },
   {
@@ -512,7 +516,7 @@
     "abbr": "APFSDS"
   },
   {
-    "Abbreviate": "ArmourPiercing Incendiary",
+    "Abbreviate": "Armour Piercing Incendiary",
     "abbr": "API"
   },
   {
@@ -600,8 +604,8 @@
     "abbr": "arr"
   },
   {
-    "Abbreviate": "Article(s) inuse",
-    "abbr": "Ain U"
+    "Abbreviate": "Article(s) in use",
+    "abbr": "A in U"
   },
   {
     "Abbreviate": "Artillery",
@@ -624,7 +628,7 @@
     "abbr": "aslt"
   },
   {
-    "Abbreviate": "Assault Ship (Landing Platform Doc",
+    "Abbreviate": "Assault Ship (Landing Platform Dock)",
     "abbr": "LPD"
   },
   {
@@ -1032,7 +1036,7 @@
     "abbr": "bgt"
   },
   {
-    "Abbreviate": "BuiltUp Area",
+    "Abbreviate": "Built Up Area",
     "abbr": "BUA"
   },
   {
@@ -1277,7 +1281,7 @@
   },
   {
     "Abbreviate": "Combat Supply",
-    "abbr": "Csup"
+    "abbr": "C sup"
   },
   {
     "Abbreviate": "Combat Search and Rescue",
@@ -1301,7 +1305,7 @@
   },
   {
     "Abbreviate": "Combat Team",
-    "abbr": "cbtT"
+    "abbr": "cbt T"
   },
   {
     "Abbreviate": "Combat Vehicle Reconnaissance (Tracked or Wheeled)",
@@ -1336,11 +1340,11 @@
     "abbr": "comdt"
   },
   {
-    "Abbreviate": "Commandand Control",
+    "Abbreviate": "Command and Control",
     "abbr": "C2"
   },
   {
-    "Abbreviate": "Command and Control (C2), and Intelligence, Surveillance and",
+    "Abbreviate": "Command and Control (C2), and Intelligence, Surveillance and Reconnaissance (ISR) Systems",
     "abbr": "C2ISR"
   },
   {
@@ -1464,7 +1468,7 @@
     "abbr": "CAD"
   },
   {
-    "Abbreviate": "Central Mechanical TransportDepot",
+    "Abbreviate": "Central Mechanical Transport Depot",
     "abbr": "CMTD"
   },
   {
@@ -1488,7 +1492,7 @@
     "abbr": "CG"
   },
   {
-    "Abbreviate": "Centrefor Naval Researach and Development",
+    "Abbreviate": "Centre for Naval Researach and Development",
     "abbr": "CNRD"
   },
   {
@@ -1601,7 +1605,7 @@
   },
   {
     "Abbreviate": "Counter Penetration",
-    "abbr": "Cpen"
+    "abbr": "C pen"
   },
   {
     "Abbreviate": "Countermeasure",
@@ -1645,7 +1649,7 @@
   },
   {
     "Abbreviate": "Culminating Point",
-    "abbr": "culP"
+    "abbr": "cul P"
   },
   {
     "Abbreviate": "Cumulative Grade Point Average",
@@ -1680,7 +1684,7 @@
     "abbr": "DTG"
   },
   {
-    "Abbreviate": "Dangerously IllList",
+    "Abbreviate": "Dangerously Ill List",
     "abbr": "DIL"
   },
   {
@@ -1912,7 +1916,7 @@
     "abbr": "DAA"
   },
   {
-    "Abbreviate": "Dockingand Essential Defects",
+    "Abbreviate": "Docking and Essential Defects",
     "abbr": "DED"
   },
   {
@@ -1948,7 +1952,7 @@
     "abbr": "doz"
   },
   {
-    "Abbreviate": "Draftfor Approval",
+    "Abbreviate": "Draft for Approval",
     "abbr": "DFA"
   },
   {
@@ -1988,7 +1992,7 @@
     "abbr": "EBO"
   },
   {
-    "Abbreviate": "Effective SonarRange",
+    "Abbreviate": "Effective Sonar Range",
     "abbr": "ESR"
   },
   {
@@ -2056,7 +2060,7 @@
     "abbr": "emb"
   },
   {
-    "Abbreviate": "EmbussingPoint",
+    "Abbreviate": "Embussing Point",
     "abbr": "EP"
   },
   {
@@ -2088,7 +2092,7 @@
     "abbr": "ETC"
   },
   {
-    "Abbreviate": "Estimated Time ofDeparture",
+    "Abbreviate": "Estimated Time of Departure",
     "abbr": "ETD"
   },
   {
@@ -2104,11 +2108,11 @@
     "abbr": "FAC"
   },
   {
-    "Abbreviate": "FastMotor Boat",
+    "Abbreviate": "Fast Motor Boat",
     "abbr": "FMB"
   },
   {
-    "Abbreviate": "FastPatrol Boat",
+    "Abbreviate": "Fast Patrol Boat",
     "abbr": "FPB"
   },
   {
@@ -2500,7 +2504,7 @@
     "abbr": "FARP"
   },
   {
-    "Abbreviate": "ForwardAir Support Operation Centre",
+    "Abbreviate": "Forward Air Support Operation Centre",
     "abbr": "FASOC"
   },
   {
@@ -2644,11 +2648,11 @@
     "abbr": "GPMG"
   },
   {
-    "Abbreviate": "General Service Training Pamphlet/",
+    "Abbreviate": "General Service Training Pamphlet/Publication",
     "abbr": "GSTP"
   },
   {
-    "Abbreviate": "Publication General Staff",
+    "Abbreviate": "General Staff",
     "abbr": "GS"
   },
   {
@@ -2828,7 +2832,7 @@
     "abbr": "HOSTAC"
   },
   {
-    "Abbreviate": "HighDensity Airspace Control Zone",
+    "Abbreviate": "High Density Airspace Control Zone",
     "abbr": "HIDACZ"
   },
   {
@@ -3044,11 +3048,11 @@
     "abbr": "ILS"
   },
   {
-    "Abbreviate": "Instrument Meteorological Condition Intelligence",
+    "Abbreviate": "Instrument Meteorological Condition",
     "abbr": "IMC"
   },
   {
-    "Abbreviate": "and Electronic Warfare",
+    "Abbreviate": "Intelligence and Electronic Warfare",
     "abbr": "IEW"
   },
   {
@@ -3060,11 +3064,11 @@
     "abbr": "IPC"
   },
   {
-    "Abbreviate": "Intelligence Preparation of Battlefield Intelligence",
+    "Abbreviate": "Intelligence Preparation of Battlefield",
     "abbr": "IPB"
   },
   {
-    "Abbreviate": "Summary",
+    "Abbreviate": "Intelligence Summary",
     "abbr": "INTSUM"
   },
   {
@@ -3128,11 +3132,11 @@
     "abbr": "IAC"
   },
   {
-    "Abbreviate": "International Compressed Air Breathing",
+    "Abbreviate": "International Compressed Air Breathing Apparatus",
     "abbr": "ICABA"
   },
   {
-    "Abbreviate": "Apparatus International Committee of Red Cross",
+    "Abbreviate": "International Committee of Red Cross",
     "abbr": "ICRC"
   },
   {
@@ -3140,7 +3144,7 @@
     "abbr": "IMBL"
   },
   {
-    "Abbreviate": "International Maritime Satellite System Interrogate",
+    "Abbreviate": "International Maritime Satellite System",
     "abbr": "INMARSAT"
   },
   {
@@ -3158,6 +3162,10 @@
   {
     "Abbreviate": "Issue Voucher",
     "abbr": "IV"
+  },
+  {
+    "Abbreviate": "Jamming Report",
+    "abbr": "JAMREP"
   },
   {
     "Abbreviate": "Joint",
@@ -3200,7 +3208,7 @@
     "abbr": "LPH"
   },
   {
-    "Abbreviate": "LandingShip Logistic",
+    "Abbreviate": "Landing Ship Logistic",
     "abbr": "LSL"
   },
   {
@@ -3428,7 +3436,7 @@
     "abbr": "LIMO"
   },
   {
-    "Abbreviate": "Lowto Medium Altitude Air Defence",
+    "Abbreviate": "Low to Medium Altitude Air Defence",
     "abbr": "LOMAD"
   },
   {
@@ -3444,7 +3452,7 @@
     "abbr": "MG"
   },
   {
-    "Abbreviate": "Machinery ControlRoom",
+    "Abbreviate": "Machinery Control Room",
     "abbr": "MCR"
   },
   {
@@ -3548,7 +3556,7 @@
     "abbr": "JTCB"
   },
   {
-    "Abbreviate": "Joint TaskForce Headquarters",
+    "Abbreviate": "Joint Task Force Headquarters",
     "abbr": "JTFHQ"
   },
   {
@@ -3584,7 +3592,7 @@
     "abbr": "JCSC"
   },
   {
-    "Abbreviate": "KeyPoint",
+    "Abbreviate": "Key Point",
     "abbr": "KP"
   },
   {
@@ -3608,7 +3616,7 @@
     "abbr": "KG"
   },
   {
-    "Abbreviate": "KillingZone",
+    "Abbreviate": "Killing Zone",
     "abbr": "KZ"
   },
   {
@@ -3720,7 +3728,7 @@
     "abbr": "mk"
   },
   {
-    "Abbreviate": "MasterAir Attack Plan",
+    "Abbreviate": "Master Air Attack Plan",
     "abbr": "MAAP"
   },
   {
@@ -3732,7 +3740,7 @@
     "abbr": "MER"
   },
   {
-    "Abbreviate": "Meal Readyto Eat",
+    "Abbreviate": "Meal Ready to Eat",
     "abbr": "MRE"
   },
   {
@@ -3804,7 +3812,7 @@
     "abbr": "msg"
   },
   {
-    "Abbreviate": "Mileper hour",
+    "Abbreviate": "Mile per hour",
     "abbr": "mph"
   },
   {
@@ -3876,7 +3884,7 @@
     "abbr": "msl"
   },
   {
-    "Abbreviate": "Missile EngagementZone",
+    "Abbreviate": "Missile Engagement Zone",
     "abbr": "MEZ"
   },
   {
@@ -3968,7 +3976,7 @@
     "abbr": "OO"
   },
   {
-    "Abbreviate": "Order(whenused in conjunction with other words)",
+    "Abbreviate": "Order(when used in conjunction with other words)",
     "abbr": "O"
   },
   {
@@ -4212,7 +4220,7 @@
     "abbr": "offr"
   },
   {
-    "Abbreviate": "Officer Conductingthe Exercise",
+    "Abbreviate": "Officer Conducting the Exercise",
     "abbr": "OCE"
   },
   {
@@ -4269,7 +4277,7 @@
   },
   {
     "Abbreviate": "Operation Order",
-    "abbr": "OO"
+    "abbr": "OpO"
   },
   {
     "Abbreviate": "Moving Target Indicator",
@@ -4344,7 +4352,7 @@
     "abbr": "NHQ"
   },
   {
-    "Abbreviate": "Naval Inflatable Life saving Equipment",
+    "Abbreviate": "Naval Inflatable Lifesaving Equipment",
     "abbr": "NILE"
   },
   {
@@ -4836,7 +4844,7 @@
     "abbr": "RPG"
   },
   {
-    "Abbreviate": "Rounds pergun",
+    "Abbreviate": "Rounds per gun",
     "abbr": "rpg"
   },
   {
@@ -4932,7 +4940,7 @@
     "abbr": "RTM"
   },
   {
-    "Abbreviate": "RearArea",
+    "Abbreviate": "Rear Area",
     "abbr": "Rear A"
   },
   {
@@ -5020,8 +5028,8 @@
     "abbr": "rft"
   },
   {
-    "Abbreviate": "ReleasePoint",
-    "abbr": "relP"
+    "Abbreviate": "Release Point",
+    "abbr": "rel P"
   },
   {
     "Abbreviate": "Remark",
@@ -5192,7 +5200,7 @@
     "abbr": "SOP"
   },
   {
-    "Abbreviate": "StartLine",
+    "Abbreviate": "Start Line",
     "abbr": "SL"
   },
   {
@@ -5316,8 +5324,8 @@
     "abbr": "sup"
   },
   {
-    "Abbreviate": "Supplyand Secretariat",
-    "abbr": "S&S"
+    "Abbreviate": "Supply and Secretariat",
+    "abbr": "S & S"
   },
   {
     "Abbreviate": "Supply and Transport",
@@ -5392,7 +5400,7 @@
     "abbr": "SAR"
   },
   {
-    "Abbreviate": "Searchand Rescue Beacon",
+    "Abbreviate": "Search and Rescue Beacon",
     "abbr": "SRB"
   },
   {
@@ -5457,7 +5465,7 @@
   },
   {
     "Abbreviate": "Service",
-    "abbr": "SVC"
+    "abbr": "svc"
   },
   {
     "Abbreviate": "Shelling Report",
@@ -5484,7 +5492,7 @@
     "abbr": "SSC"
   },
   {
-    "Abbreviate": "Short/Vertical Take-offand Landing",
+    "Abbreviate": "Short/Vertical Take-off and Landing",
     "abbr": "S/VTOL"
   },
   {
@@ -5561,7 +5569,7 @@
   },
   {
     "Abbreviate": "Switch",
-    "abbr": "SW"
+    "abbr": "sw"
   },
   {
     "Abbreviate": "Switchboard",
@@ -5729,7 +5737,7 @@
   },
   {
     "Abbreviate": "Tentacle",
-    "abbr": "tel"
+    "abbr": "tcl"
   },
   {
     "Abbreviate": "Terrain Analysis",
@@ -5772,7 +5780,7 @@
     "abbr": "TDA"
   },
   {
-    "Abbreviate": "Torpedo DangerZone",
+    "Abbreviate": "Torpedo Danger Zone",
     "abbr": "TDZ"
   },
   {
@@ -5900,7 +5908,7 @@
     "abbr": "UCW"
   },
   {
-    "Abbreviate": "Unconv onal Warfare Force",
+    "Abbreviate": "Unconventional Warfare Force",
     "abbr": "UWF"
   },
   {
@@ -6020,7 +6028,7 @@
     "abbr": "VERTREP"
   },
   {
-    "Abbreviate": "Vertical/Short Take-offand Landing",
+    "Abbreviate": "Vertical/Short Take-off and Landing",
     "abbr": "V/STOL"
   },
   {
@@ -6120,7 +6128,7 @@
     "abbr": "WE"
   },
   {
-    "Abbreviate": "WarGame",
+    "Abbreviate": "War Game",
     "abbr": "WG"
   },
   {
@@ -6132,7 +6140,7 @@
     "abbr": "WR"
   },
   {
-    "Abbreviate": "Ware HouseInventory ManagementSystem",
+    "Abbreviate": "Ware House Inventory Management System",
     "abbr": "WHIMS"
   },
   {
@@ -6172,7 +6180,7 @@
     "abbr": "wpn"
   },
   {
-    "Abbreviate": "Weapon FreeZone",
+    "Abbreviate": "Weapon Free Zone",
     "abbr": "WFZ"
   },
   {
@@ -6208,7 +6216,7 @@
     "abbr": "W/T"
   },
   {
-    "Abbreviate": "With Effectfrom",
+    "Abbreviate": "With Effect from",
     "abbr": "wef"
   },
   {
@@ -6640,11 +6648,11 @@
     "abbr": "AD"
   },
   {
-    "Abbreviate": "AirDefence Area; Action Data Automation; Air Defence Alert",
+    "Abbreviate": "Air Defence Area; Action Data Automation; Air Defence Alert",
     "abbr": "ADA"
   },
   {
-    "Abbreviate": "AdvancedDressing Station; Air Despatch Service",
+    "Abbreviate": "Advanced Dressing Station; Air Despatch Service",
     "abbr": "ADS"
   },
   {
@@ -6785,7 +6793,7 @@
   },
   {
     "Abbreviate": "Sub Lieutenant",
-    "abbr": "SLt"
+    "abbr": "S Lt"
   },
   {
     "Abbreviate": "Acting Sub Lieutenant",
@@ -6828,11 +6836,11 @@
     "abbr": "OD"
   },
   {
-    "Abbreviate": "Marshal of the Air Force Air Chief",
+    "Abbreviate": "Marshal of the Air Force",
     "abbr": "Mshl of the AF"
   },
   {
-    "Abbreviate": "Marshal",
+    "Abbreviate": "Air Chief Marshal",
     "abbr": "Air Chf Mshl"
   },
   {
@@ -7152,7 +7160,7 @@
     "abbr": "OHP"
   },
   {
-    "Abbreviate": "Overthe Horizon Radar; Operational Hazard Report",
+    "Abbreviate": "Over the Horizon Radar; Operational Hazard Report",
     "abbr": "OHR"
   },
   {
@@ -7816,6 +7824,10 @@
     "abbr": "DAA&QMG"
   },
   {
+    "Abbreviate": "Deputy Assistant Quartermaster General",
+    "abbr": "DAQMG"
+  },
+  {
     "Abbreviate": "Deputy Military Assistant",
     "abbr": "DMA"
   },
@@ -7896,7 +7908,7 @@
     "abbr": "MS"
   },
   {
-    "Abbreviate": "MilitaryAdviser/Attach\u00e9/Assistant",
+    "Abbreviate": "Military Adviser/Attach\u00e9/Assistant",
     "abbr": "MA"
   },
   {
@@ -7973,7 +7985,7 @@
   },
   {
     "Abbreviate": "Second in Command",
-    "abbr": "21C"
+    "abbr": "2IC"
   },
   {
     "Abbreviate": "Senior Instructor",
@@ -8101,7 +8113,7 @@
   },
   {
     "Abbreviate": "Commander 314 MPA Squadron",
-    "abbr": "Cdr314 Sqn"
+    "abbr": "Cdr 314 Sqn"
   },
   {
     "Abbreviate": "Commander 109 Helicopter Squadron",
@@ -8109,7 +8121,7 @@
   },
   {
     "Abbreviate": "Cook 1st Class",
-    "abbr": "CkI"
+    "abbr": "Ck I"
   },
   {
     "Abbreviate": "Cook 2nd Class",
@@ -8208,7 +8220,7 @@
     "abbr": "PCO"
   },
   {
-    "Abbreviate": "Principal Warfare Officer",
+    "Abbreviate": "Principal Warfare Officer(Above/Communication/Navigation/Underwater)",
     "abbr": "PWO/PWO(A/C/N/U)"
   },
   {
@@ -8224,7 +8236,7 @@
     "abbr": "REN"
   },
   {
-    "Abbreviate": "Radio Operator 1stClass",
+    "Abbreviate": "Radio Operator 1st Class",
     "abbr": "ROI"
   },
   {
@@ -8292,11 +8304,11 @@
     "abbr": "TOP"
   },
   {
-    "Abbreviate": "Topass 1stClass",
+    "Abbreviate": "Topass 1st Class",
     "abbr": "TOP 1"
   },
   {
-    "Abbreviate": "Topass 2ndClass",
+    "Abbreviate": "Topass 2nd Class",
     "abbr": "TOP 2"
   },
   {
@@ -8344,7 +8356,7 @@
     "abbr": "MCPO (E)"
   },
   {
-    "Abbreviate": "Master ChiefPetty Officer (Executive)",
+    "Abbreviate": "Master Chief Petty Officer (Executive)",
     "abbr": "MCPO (X)"
   },
   {
@@ -8376,11 +8388,11 @@
     "abbr": "MA"
   },
   {
-    "Abbreviate": "Medical Assistant 1stClass",
+    "Abbreviate": "Medical Assistant 1st Class",
     "abbr": "MAI"
   },
   {
-    "Abbreviate": "Medical Assistant 2ndClass",
+    "Abbreviate": "Medical Assistant 2nd Class",
     "abbr": "MA II"
   },
   {
@@ -8388,7 +8400,7 @@
     "abbr": "MO"
   },
   {
-    "Abbreviate": "Mine ClearanceDiving Officer",
+    "Abbreviate": "Mine Clearance Diving Officer",
     "abbr": "MCDO"
   },
   {
@@ -8396,11 +8408,11 @@
     "abbr": "MUS"
   },
   {
-    "Abbreviate": "Musician 1stClass",
+    "Abbreviate": "Musician 1st Class",
     "abbr": "MUS I"
   },
   {
-    "Abbreviate": "Musician 2ndClass",
+    "Abbreviate": "Musician 2nd Class",
     "abbr": "MUS II"
   },
   {
@@ -9045,7 +9057,7 @@
   },
   {
     "Abbreviate": "Director (Directorate) of Education",
-    "abbr": "D Edn Dte Edn"
+    "abbr": "D Edn/ Dte Edn"
   },
   {
     "Abbreviate": "Director (Directorate) of Engineering",
@@ -9157,7 +9169,7 @@
   },
   {
     "Abbreviate": "Orderly Officer",
-    "abbr": "00"
+    "abbr": "OO"
   },
   {
     "Abbreviate": "Provost Marshal",
@@ -9177,7 +9189,7 @@
   },
   {
     "Abbreviate": "Tajikistan",
-    "abbr": "\u03a4\u0399"
+    "abbr": "TI"
   },
   {
     "Abbreviate": "Russia",
@@ -9185,19 +9197,31 @@
   },
   {
     "Abbreviate": "Thailand",
-    "abbr": "\u03a4\u0397"
+    "abbr": "TH"
   },
   {
     "Abbreviate": "Saudi Arabia",
     "abbr": "SA"
   },
   {
+    "Abbreviate": "Timor-Leste",
+    "abbr": "TL"
+  },
+  {
     "Abbreviate": "Sierra Leone",
     "abbr": "SL"
   },
   {
+    "Abbreviate": "Tunisia",
+    "abbr": "TS"
+  },
+  {
     "Abbreviate": "Singapore",
     "abbr": "SG"
+  },
+  {
+    "Abbreviate": "Turkey",
+    "abbr": "TU"
   },
   {
     "Abbreviate": "Somalia",
@@ -9210,6 +9234,10 @@
   {
     "Abbreviate": "South Africa",
     "abbr": "SF"
+  },
+  {
+    "Abbreviate": "United Kingdom",
+    "abbr": "UK"
   },
   {
     "Abbreviate": "Sri Lanka",
@@ -9232,12 +9260,24 @@
     "abbr": "SZ"
   },
   {
+    "Abbreviate": "Vietnam",
+    "abbr": "VM"
+  },
+  {
+    "Abbreviate": "Syria",
+    "abbr": "SY"
+  },
+  {
+    "Abbreviate": "Zimbabwe",
+    "abbr": "ZI"
+  },
+  {
     "Abbreviate": "Afghanistan",
     "abbr": "AF"
   },
   {
     "Abbreviate": "Hong Kong",
-    "abbr": "IHK"
+    "abbr": "HK"
   },
   {
     "Abbreviate": "Albania",
@@ -9245,7 +9285,7 @@
   },
   {
     "Abbreviate": "India",
-    "abbr": "NDIN"
+    "abbr": "IN"
   },
   {
     "Abbreviate": "Algeria",
@@ -9253,7 +9293,7 @@
   },
   {
     "Abbreviate": "Indonesia",
-    "abbr": "\"ID\""
+    "abbr": "ID"
   },
   {
     "Abbreviate": "Angola",
@@ -9261,7 +9301,7 @@
   },
   {
     "Abbreviate": "Iran",
-    "abbr": "IRR"
+    "abbr": "IR"
   },
   {
     "Abbreviate": "Argentina",
@@ -9269,7 +9309,7 @@
   },
   {
     "Abbreviate": "Iraq",
-    "abbr": "QLIQ"
+    "abbr": "IQ"
   },
   {
     "Abbreviate": "Australia",
@@ -9309,7 +9349,7 @@
   },
   {
     "Abbreviate": "Kenya",
-    "abbr": "\u039a\u0395"
+    "abbr": "KE"
   },
   {
     "Abbreviate": "Bhutan",
@@ -9333,15 +9373,23 @@
   },
   {
     "Abbreviate": "Kuwait",
-    "abbr": "TAOEM60AEWLWT00KU"
+    "abbr": "KU"
   },
   {
     "Abbreviate": "Brazil",
     "abbr": "BR"
   },
   {
+    "Abbreviate": "Laos",
+    "abbr": "LA"
+  },
+  {
     "Abbreviate": "Brunei",
     "abbr": "BU"
+  },
+  {
+    "Abbreviate": "Lebanon",
+    "abbr": "LE"
   },
   {
     "Abbreviate": "Cambodia",
@@ -9373,7 +9421,7 @@
   },
   {
     "Abbreviate": "Morocco",
-    "abbr": "\u039c\u039f"
+    "abbr": "MO"
   },
   {
     "Abbreviate": "China",
@@ -9381,7 +9429,7 @@
   },
   {
     "Abbreviate": "Mozambique",
-    "abbr": "LDMZ"
+    "abbr": "MZ"
   },
   {
     "Abbreviate": "Congo (Brazzaville)",
@@ -9392,7 +9440,7 @@
     "abbr": "MN"
   },
   {
-    "Abbreviate": "C\u00f4ted'Ivoire",
+    "Abbreviate": "Cote d' Ivoire",
     "abbr": "CI"
   },
   {
@@ -9421,7 +9469,7 @@
   },
   {
     "Abbreviate": "New Zealand",
-    "abbr": "MRL2600NZ"
+    "abbr": "NZ"
   },
   {
     "Abbreviate": "Ethiopia",
@@ -9448,12 +9496,12 @@
     "abbr": "MU"
   },
   {
-    "Abbreviate": "GermanFederalRepublic",
+    "Abbreviate": "German Federal Republic",
     "abbr": "GE"
   },
   {
     "Abbreviate": "Pakistan",
-    "abbr": "\u6c34PK"
+    "abbr": "PK"
   },
   {
     "Abbreviate": "Germany",
@@ -9461,7 +9509,7 @@
   },
   {
     "Abbreviate": "Palestine",
-    "abbr": "PS5"
+    "abbr": "PS"
   },
   {
     "Abbreviate": "Greece",
@@ -9640,7 +9688,7 @@
     "abbr": "4 Mor Regt"
   },
   {
-    "Abbreviate": "5 LightAnti-Aircraft Regiment",
+    "Abbreviate": "5 Light Anti-Aircraft Regiment",
     "abbr": "5 LAA Regt"
   },
   {
@@ -9764,7 +9812,7 @@
     "abbr": "NETS"
   },
   {
-    "Abbreviate": "Nuclear, Biological, Chemical Defence Including Fire Fighting and Damage ControlSchool",
+    "Abbreviate": "Nuclear, Biological, Chemical Defence Including Fire Fighting and Damage Control School",
     "abbr": "NBCD SCHOOL"
   },
   {
@@ -9945,7 +9993,7 @@
     "abbr": "CMP"
   },
   {
-    "Abbreviate": "Education Corps",
+    "Abbreviate": "Army Education Corps",
     "abbr": "AEC"
   },
   {
@@ -10139,7 +10187,7 @@
   },
   {
     "Abbreviate": "11 Small Frigate Guided Missile",
-    "abbr": "11FSG"
+    "abbr": "11 FSG"
   },
   {
     "Abbreviate": "BNS SHADHINOTA",
@@ -10178,7 +10226,7 @@
     "abbr": "SBL"
   },
   {
-    "Abbreviate": "21 Patrol CraftSquadron",
+    "Abbreviate": "21 Patrol Craft Squadron",
     "abbr": "21 PCS"
   },
   {
@@ -10246,24 +10294,24 @@
     "abbr": "SLM"
   },
   {
-    "Abbreviate": "81 Patrol CraftSquadron",
+    "Abbreviate": "81 Patrol Craft Squadron",
     "abbr": "81 PCS"
   },
   {
     "Abbreviate": "BNS DURJOY",
-    "abbr": "81 PCS"
-  },
-  {
-    "Abbreviate": "BNS NIRMUL",
     "abbr": "DJY"
   },
   {
-    "Abbreviate": "BNS DURGAM",
+    "Abbreviate": "BNS NIRMUL",
     "abbr": "NML"
   },
   {
-    "Abbreviate": "BNS NISHAN",
+    "Abbreviate": "BNS DURGAM",
     "abbr": "DGM"
+  },
+  {
+    "Abbreviate": "BNS NISHAN",
+    "abbr": "NSN"
   },
   {
     "Abbreviate": "91 Patrol Craft Squadron",
@@ -10307,7 +10355,7 @@
   },
   {
     "Abbreviate": "812 Missile Boat Squadron",
-    "abbr": "812MBS"
+    "abbr": "812 MBS"
   },
   {
     "Abbreviate": "BNS DURDHARSHA",
@@ -10324,6 +10372,10 @@
   {
     "Abbreviate": "813 Missile Boat Squadron",
     "abbr": "813 MBS"
+  },
+  {
+    "Abbreviate": "BNS ANIRBAN",
+    "abbr": "ANBN"
   },
   {
     "Abbreviate": "Auxiliary Squadron",
@@ -10474,7 +10526,7 @@
     "abbr": "315 MPASqn"
   },
   {
-    "Abbreviate": "BangladeshAir Force Base Bangabandhu",
+    "Abbreviate": "Bangladesh Air Force Base Bangabandhu",
     "abbr": "BAF BBD"
   },
   {
@@ -10514,7 +10566,7 @@
     "abbr": "105 AJTU"
   },
   {
-    "Abbreviate": "AirHeadquarters (Unit)",
+    "Abbreviate": "Air Headquarters (Unit)",
     "abbr": "Air HQ (U)"
   },
   {
